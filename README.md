@@ -11,17 +11,19 @@ Przeszkodami będą: poruszający się świat gry(z góry do dołu) oraz możliw
 
 ## Technologie
 
-1. [PhaserJS](https://phaser.io/) 
-2. [BabelJS](https://babeljs.io/)
-3. [Webpack](http://webpack.github.io/)
+0. [Phaser.js](https://phaser.io/) - framework aplikacji
+0. [Babel.js](https://babeljs.io/) - transpiler `ECMAScript 6` na `ECMAScript 5`
+0. [Webpack](http://webpack.github.io/) - budowanie paczki aplikacji
 
-## Aby uruchomić grę należy
+## Instalacja
 
-1. Wpisać polecenie 
+0. Wpisać polecenie
+ 
 ```
     npm install
 ```
-2. Uruchomić Webpacka poleceniem 
+0. Uruchomić `Webpack`-a poleceniem
+ 
 ```
     webpack
 ```
