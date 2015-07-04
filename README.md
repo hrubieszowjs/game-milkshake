@@ -19,11 +19,12 @@ Przeszkodami będą: poruszający się świat gry(z góry do dołu) oraz możliw
 
 0. Wpisać polecenie
  
-```
+    ```
     npm install
-```
+    ```
+    
 0. Uruchomić `Webpack`-a poleceniem
  
-```
+    ```
     webpack
-```
+    ```
