@@ -1,4 +1,4 @@
-# Game-Milkshake
+# game-milkshake
 
 Projekt zakłada stworzenie platformowej gry webowej.
 
