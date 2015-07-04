@@ -18,9 +18,10 @@ Przeszkodami będą: poruszający się świat gry(z góry do dołu) oraz możliw
 ## Aby uruchomić grę należy
 
 1. Wpisać polecenie 
-
+```
     npm install
-
+```
 2. Uruchomić Webpacka poleceniem 
-
+```
     webpack
+```
