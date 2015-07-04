@@ -11,7 +11,7 @@ Przeszkodami będą: poruszający się świat gry(z góry do dołu) oraz możliw
 
 ## Technologie
 
-*[PhaserJS](https://phaser.io/) 
-*[BabelJS](https://babeljs.io/)
-[Webpack](http://webpack.github.io/)
+1. [PhaserJS](https://phaser.io/) 
+2. [BabelJS](https://babeljs.io/)
+3. [Webpack](http://webpack.github.io/)
 
