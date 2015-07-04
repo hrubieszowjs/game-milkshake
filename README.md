@@ -15,3 +15,9 @@ Przeszkodami będą: poruszający się świat gry(z góry do dołu) oraz możliw
 2. [BabelJS](https://babeljs.io/)
 3. [Webpack](http://webpack.github.io/)
 
+## Aby uruchomić grę należy
+
+1. Wpisać polecenie 
+    npm install
+2. Uruchomić Webpacka poleceniem 
+    webpack
