@@ -34,7 +34,10 @@ Przeszkodami będą: poruszający się świat gry (z góry do dołu) oraz możli
 
 Klient podczas inicjalizacji otiwera kanał komunikacji z serwerem za pomocą WebSocket'ów.
 Przy każdym ruchu bohatera klient wysyła na serwer swoją aktualną pozycję.
+
 Serwer po otrzymaniu  pozycji od jakiegokolwiek klienta wysyła zaktualizowaną listę wszystkich pozycji do wszystkich klientów. 
+
 Klient po otrzymaniu listy od serwera sprawdza czy pozycje poszczególnych graczy się zmieniły,
-jeśli pozycja się zmieniła to następuje aktualizacja pozycji. Po skończeniu parsowania
-danych klient updatuje widok.
+jeśli pozycja się zmieniła to następuje aktualizacja pozycji. 
+
+Po skończeniu parsowania danych klient updatuje widok.
