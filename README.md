@@ -9,3 +9,9 @@ Gracz będzie poruszał się postacią-szklanką po chmurkach. Po zebraniu kolej
 Do wykonania shake potrzeba 3 składników owocowych, mleko jest pominięte :)
 Przeszkodami będą: poruszający się świat gry(z góry do dołu) oraz możliwość spadnięcia z chmurki.
 
+## Technologie
+
+*[PhaserJS](https://phaser.io/) 
+*[BabelJS](https://babeljs.io/)
+[Webpack](http://webpack.github.io/)
+
